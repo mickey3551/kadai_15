@@ -5,12 +5,11 @@ html {
     font-size: 20px;
 }
 .blue {
-    color: blue;
     color: #87ceeb;
 }
 .pink {
     color: pink;
-    color: rgp(255,192,203)
+    color: rgb(255,192,203)
 }
 h1 {
       font-family: "Josefin Sans", sans-serif;
